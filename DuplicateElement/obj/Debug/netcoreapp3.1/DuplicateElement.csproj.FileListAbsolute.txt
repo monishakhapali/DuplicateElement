@@ -1,0 +1,13 @@
+C:\Users\monisha.khapali\source\repos\DuplicateElement\DuplicateElement\bin\Debug\netcoreapp3.1\DuplicateElement.exe
+C:\Users\monisha.khapali\source\repos\DuplicateElement\DuplicateElement\bin\Debug\netcoreapp3.1\DuplicateElement.deps.json
+C:\Users\monisha.khapali\source\repos\DuplicateElement\DuplicateElement\bin\Debug\netcoreapp3.1\DuplicateElement.runtimeconfig.json
+C:\Users\monisha.khapali\source\repos\DuplicateElement\DuplicateElement\bin\Debug\netcoreapp3.1\DuplicateElement.runtimeconfig.dev.json
+C:\Users\monisha.khapali\source\repos\DuplicateElement\DuplicateElement\bin\Debug\netcoreapp3.1\DuplicateElement.dll
+C:\Users\monisha.khapali\source\repos\DuplicateElement\DuplicateElement\bin\Debug\netcoreapp3.1\DuplicateElement.pdb
+C:\Users\monisha.khapali\source\repos\DuplicateElement\DuplicateElement\obj\Debug\netcoreapp3.1\DuplicateElement.csprojAssemblyReference.cache
+C:\Users\monisha.khapali\source\repos\DuplicateElement\DuplicateElement\obj\Debug\netcoreapp3.1\DuplicateElement.AssemblyInfoInputs.cache
+C:\Users\monisha.khapali\source\repos\DuplicateElement\DuplicateElement\obj\Debug\netcoreapp3.1\DuplicateElement.AssemblyInfo.cs
+C:\Users\monisha.khapali\source\repos\DuplicateElement\DuplicateElement\obj\Debug\netcoreapp3.1\DuplicateElement.csproj.CoreCompileInputs.cache
+C:\Users\monisha.khapali\source\repos\DuplicateElement\DuplicateElement\obj\Debug\netcoreapp3.1\DuplicateElement.dll
+C:\Users\monisha.khapali\source\repos\DuplicateElement\DuplicateElement\obj\Debug\netcoreapp3.1\DuplicateElement.pdb
+C:\Users\monisha.khapali\source\repos\DuplicateElement\DuplicateElement\obj\Debug\netcoreapp3.1\DuplicateElement.genruntimeconfig.cache
